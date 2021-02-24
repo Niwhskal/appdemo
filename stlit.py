@@ -44,7 +44,7 @@ if start_execution:
     time.sleep(1)
     mymidia_placeholder.markdown(mymidia_html, unsafe_allow_html=True)
 
-    for i in range(1000):
+    for i in range(500):
 
         p = np.random.rand()
 
